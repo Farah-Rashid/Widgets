@@ -1,0 +1,13 @@
+nav a.active{
+    text-decoration:underline;
+    font-weight: bold;
+    font-style: italic;
+}
+.primary{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+nav a {
+   margin: 20px;
+}
